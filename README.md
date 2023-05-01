@@ -1,4 +1,4 @@
-# Hackerrank Dev ile Developer Yolculuğum
+# Desing Pattern Dev ile Developer Yolculuğum
 
 ### Contribution guidelines
 
