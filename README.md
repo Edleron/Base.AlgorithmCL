@@ -1,4 +1,3 @@
-
 # Desing Pattern Dev ile Developer Yolculuğum
 
 ### Contribution guidelines
@@ -18,17 +17,9 @@ Terminal -> cd  	|| dosya gezintisi.
 Terminal -> cd..  	|| bir üst dosyaya geri dönme
 ```
 
-### Node Js Setup & run
-
-```
-node "scriptName.js"
-> Parametre Addings
-To this (key combo Ctrl+C):
-```
-
 ### Todo Roadmap List
 
-* Step - 1 & Edleron Design Patterns
+* Step - 1 & Engin Demirog & Design Patterns
 
 ### Who do I talk to?
 
