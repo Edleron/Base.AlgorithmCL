@@ -1,4 +1,4 @@
-﻿namespace LSingleton
+﻿namespace Singleton
 {
     class Program
     {
