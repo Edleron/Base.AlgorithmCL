@@ -39,6 +39,7 @@
         public void Save()
         {
             Console.WriteLine("Saing !");
+            Console.ReadKey();
         }
     }
 }
