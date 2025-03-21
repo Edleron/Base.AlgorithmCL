@@ -22,7 +22,6 @@ Terminal -> cd..  	|| bir üst dosyaya geri dönme
 * Step - 1 & Soft Breaks   & SOLID
 * Step - 2 & Engin Demirog & Design Patterns
 
-
 ### Who do I talk to?
 
 * Repo owner or edleron@hotmail.com
