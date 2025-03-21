@@ -15,7 +15,8 @@ class Program
     */
     static void Main(string[] args)
     {
-       
+        CorrectUsed();
+        WrongUsed();
     }
 
     static void CorrectUsed()
